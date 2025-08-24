@@ -1,0 +1,42 @@
+『Age of Okayama』
+
+── 登場人物 ──
+  桃太郎
+  おじいさん
+  おばあさん
+  鬼
+
+── 建造物 ──
+  岡山城
+  イオンモール岡山
+  老人ホーム
+
+── 音楽 ──
+  タイトル　「龍脈谷」
+    MOMIZizm music
+    https://music.storyinvention.com/ryuu-myaku-dani/
+
+  建築　「ドア」
+    VSQ plus+
+    https://vsq.co.jp/plus/page/7/?s=%E5%B7%A5
+
+── 制作陣 ──
+  制作　　ベリービッグエンディアン
+  チームリーダー　　大野 颯也
+  企画　　中川 浩明
+  プログラミング　　寺本 祥汰
+  画像　　渡邉 瑠々
+  音曲　　足立 悠司
+  紹介動画　　寺本 祥汰
+
+── 使用したツール ──
+  Unity 6.1 (6000.1.8f1)
+  Blender 4.5
+  ChatGPT-5
+  Gemini
+
+―― 結びに ──  
+  この物語を遊んでくださり  
+  心より感謝申し上げます。
+
+
